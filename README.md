@@ -25,7 +25,7 @@
 
 > Script will check if system uses 1) Yum Package Manager or 2) Apt Package Manager and proceed with Install/Uninstall accordingly.
 
-> Tested only on latest AWS 1) Amazon Linux and 2) Latest Ubuntu.
+> Tested only on latest AWS 1) Amazon Linux 2 and 2) Ubuntu Server 18.04.
 
 Script creates a Menu with 5 Options:
 1) Install Apache
