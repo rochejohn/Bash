@@ -22,10 +22,12 @@ MENUBOX=${MENUBOX=dialog}
 
 if [ -n "$(command -v yum)" ]; then
 PACKAGE_MANAGER=YUM
+sudo yum install -y dialog
 
 
 elif [ -n "$(command -v apt-get)" ]; then
 PACKAGE_MANAGER=APT
+sudo apt install -y dialog
 fi
 
 
