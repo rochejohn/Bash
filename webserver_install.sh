@@ -39,7 +39,7 @@ fi
 # function to display a simple menu
 funcDisplayDialogMenu () {
 
-        $MENUBOX --title "[ Web Server Install ]" --menu "\nPackage Manager Detected: $PACKAGE_MANAGER\n\nUse UP/DOWN Arrows to move and select or use the Number of your Choice and press Enter" 20 45 5 1 "Install Apache" 2 "Install Nginx" 3 "Remove Apache" 4 "Remove Nginx" X "Exit" 2>choice.txt
+        $MENUBOX --title "[ Web Server Install ]" --menu "\nPackage Manager Detected: $PACKAGE_MANAGER\n\nUse UP/DOWN Arrows to move and select or use the Number of your Choice and press Enter" 20 45 5 1 "Install Apache" 2 "Install Nginx" 3 "Remove Apache" 4 "Remove Nginx" 5 "Exit" 2>choice.txt
 
 }
 
@@ -166,7 +166,7 @@ case "`cat choice.txt`" in
 
 
 
-         X) clear
+         5) clear
             echo "Exiting the Script";;
 
 esac
