@@ -4,7 +4,7 @@
 
 
 - [Script](#Script)
-- [Script GIF](#WebServer-Script-GIF)
+- [Script GIF](#WebServer-Script-Screenshots)
 
 
 ---
@@ -37,10 +37,30 @@ Script creates a Menu with 5 Options:
 
 ---
 
-#### WebServer Script GIF
+#### WebServer Script Screenshots
 ---
 
-![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c3/collatz:validation.gif)
+#### Main Menu
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Menu.png" width="500" height="300" />
 
+---
+
+#### Apache Install
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-Up.png" width="500" height="300" />
+
+---
+
+#### Apache Remove
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-R.png" width="500" height="300" />
+
+---
+
+#### Nginx Install
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-Up.png" width="500" height="300" />
+
+---
+
+#### Nginx Remove
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-R.png" width="500" height="300" />
 
 ---
