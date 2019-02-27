@@ -46,21 +46,21 @@ Script creates a Menu with 5 Options:
 ---
 
 #### Apache Install
-<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-Up.png" width="800" height="300" />
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-Up.png" width="800" height="200" />
 
 ---
 
 #### Apache Remove
-<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-R.png" width="800" height="300" />
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Apache-R.png" width="800" height="200" />
 
 ---
 
 #### Nginx Install
-<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-Up.png" width="800" height="300" />
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-Up.png" width="800" height="200" />
 
 ---
 
 #### Nginx Remove
-<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-R.png" width="800" height="300" />
+<img src="https://github.com/rochejohn/Bash/blob/master/screen-shots/Nginx-R.png" width="800" height="200" />
 
 ---
